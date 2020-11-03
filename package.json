@@ -1,0 +1,27 @@
+{
+  "name": "moon-fools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "phaser": "^3.24.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elysium001/moon-fools.git"
+  },
+  "keywords": [
+    "phaser",
+    "moon-fools"
+  ],
+  "author": "i_am_techgnosis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elysium001/moon-fools/issues"
+  },
+  "homepage": "https://github.com/elysium001/moon-fools#readme"
+}
